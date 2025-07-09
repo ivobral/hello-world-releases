@@ -1,6 +1,6 @@
 # Hello World Console App Releases
 
-Current version: 1.0.4
+Current version: 1.0.5
 
 ## Installation
 
